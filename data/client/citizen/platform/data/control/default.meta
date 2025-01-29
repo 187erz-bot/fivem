@@ -27,14 +27,14 @@
 			<Input>INPUT_WEAPON_WHEEL_PREV</Input>
 			<Source>IOMS_MOUSE_WHEEL</Source>
 			<Parameters>
-				<Item>IOM_WHEEL_UP</Item>
+				<Item>IOM_WHEEL_DOWN</Item>
 			</Parameters>
 		</Item>
 		<Item>
-			<Input>INPUT_DROP_WEAPON</Input>
+			<Input>INPUT_DROP_WEAPOM</Input>
 			<Source>IOMS_KEYBOARD</Source>
 			<Parameters>
-				<Item>KEY_F9</Item>
+				<Item>KEY_F7</Item>
 			</Parameters>
 		</Item>
 		<Item>
@@ -799,7 +799,7 @@
 			<Input>INPUT_SELECT_WEAPON_UNARMED</Input>
 			<Source>IOMS_KEYBOARD</Source>
 			<Parameters>
-				<Item>KEY_1</Item>
+				<Item>KEY_U</Item>
 			</Parameters>
 		</Item>
 		<Item>
